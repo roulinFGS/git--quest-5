@@ -1,6 +1,3 @@
-# git--quest-5
-Wild code school git quest 5 
-
 # git-quest-5
 wild code school git quest 5
 
